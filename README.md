@@ -1,2 +1,2 @@
 # Tech-Scap
-Apresentação do Tech
+Apresentação do Github feita pelo TechScap
